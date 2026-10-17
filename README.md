@@ -71,6 +71,5 @@ The database consists of 4 normalized relational tables managed via Oracle seque
 
 ## 👤 Author
 
-- **Sadman Fahmid Raj** (ID: 242010121)
-- Section: A, Batch: 16th
+- **Sadman Fahmid Raj**
 - University of Scholars
